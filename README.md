@@ -2,6 +2,8 @@
 
 3rd-year **Informatics Engineering** student at [FEUP](https://sigarra.up.pt/feup) (Porto). I build web apps, desktop tools, games, and AI agent workflows.
 
+**Portfolio:** [daltondjoesman.github.io](https://daltondjoesman.github.io)
+
 ## Now
 
 - **AI Projects Coordinator (Server Agents)** @ ARMISLab FEUP — self-hosted agents, docs/onboarding, small team
@@ -14,7 +16,7 @@
 | --- | --- |
 | [Maestro](https://github.com/DaltonDjoesman/maestro-sessionManager) | Linux work-session launcher (Tauri 2 + React + Rust) |
 | [Lens Manager](https://github.com/DaltonDjoesman/template-lensManager) | PWA for optical lens orders — [live demo](https://daltondjoesman.github.io/template-lensManager/) |
-| [CopaBolão](https://github.com/DaltonDjoesman/worldcup-pool-tracker-app) | Flutter + Firebase World Cup 2026 exact-score pool |
+| [Scorepool](https://github.com/DaltonDjoesman/scorepool) | Flutter + Firebase World Cup exact-score pool |
 | [Bubble Trouble](https://github.com/DaltonDjoesman/bubbleTrouble-game) | Cyberpunk fan remake in Python + pygame |
 
 ## Stack
@@ -23,6 +25,7 @@
 
 ## Contact
 
+- Website: [daltondjoesman.github.io](https://daltondjoesman.github.io)
 - Email: [daltonyuiti@hotmail.com](mailto:daltonyuiti@hotmail.com)
-- LinkedIn: [dalton-djoesman-kld2502](https://www.linkedin.com/in/dalton-djoesman-kld2502/)
+- LinkedIn: [ddjoesman](https://www.linkedin.com/in/ddjoesman/)
 - GitHub: [DaltonDjoesman](https://github.com/DaltonDjoesman)
